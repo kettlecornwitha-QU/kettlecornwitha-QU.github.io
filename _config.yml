@@ -8,4 +8,6 @@ url: https://kettlecornwitha-QU.github.io
 nav:
   - home: /
   - posts: /_posts
-
+links:
+  - title: Posts
+    url: /_posts/
