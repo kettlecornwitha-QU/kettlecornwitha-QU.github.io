@@ -1,1 +1,0 @@
-# kettlecornwitha-QU.github.io
